@@ -31,6 +31,7 @@ class ShowHideTech extends Component {
           <span className="techlist__icon devicons devicons-linux" />
           <span className="techlist__icon devicons devicons devicons-nodejs" />
           <span className="techlist__icon devicons devicons devicons-react" />
+          <span className="techlist__icon devicons devicons-mysql" />
           <span className="techlist__icon devicons devicons devicons-illustrator" />
         </div>
       </section>
